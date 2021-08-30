@@ -1,5 +1,5 @@
 // const ApiRootUrl = 'http://localhost:8360/api/';
-const ApiRootUrl = 'http://106.15.4.20/api/';
+const ApiRootUrl = 'https://xiaokeai.shop/api/';
 
 module.exports = {
     // 登录
